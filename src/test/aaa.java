@@ -1,9 +1,3 @@
-package test;
-
-public static void main();
-
-
-
-
+가나다라마바사아
 
 
